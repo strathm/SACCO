@@ -1,0 +1,15 @@
+Flask
+Flask-Login
+Flask-WTF
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-SocketIO
+bcrypt
+cryptography
+Celery
+redis
+APScheduler
+requests
+Pillow
+python-dateutil
+psycopg2-binary
